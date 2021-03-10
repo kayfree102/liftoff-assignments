@@ -13,6 +13,6 @@ https://github.com/kayfree102
 https://www.linkedin.com/in/kendal-m-freeman/
 
 ### Resume
-You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.
+I added my resume pdf at the top! But will go back and edit the "Project Experience" to further explain my project once it's completed :) 
 
 > *Your GitHub repository is public* if you do not want to upload your resume to a public facing repository, talk with your mentor about an alternate way to submit this assignment.
